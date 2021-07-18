@@ -1,0 +1,101 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.8f1 (507919d4fff5) revision 5273881'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1083; Version 2009; 64bit' Language: 'tr' Physical Memory: 16276 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.8f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/hburc/Downloads/ZigZagGame_UnityEngine/Zigzag
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+59798
+Successfully changed project path to: C:/Users/hburc/Downloads/ZigZagGame_UnityEngine/Zigzag
+C:/Users/hburc/Downloads/ZigZagGame_UnityEngine/Zigzag
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 42.72 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.8f1 (507919d4fff5)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/hburc/Downloads/ZigZagGame_UnityEngine/Zigzag/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 950M (ID=0x139a)
+    Vendor:   
+    VRAM:     4055 MB
+    Driver:   30.0.14.7111
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56820
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004207 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 51.71 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.527 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002099 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.603 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1122 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.3 MB.
+System memory in use after: 57.4 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1566.
+Total: 3.194500 ms (FindLiveObjects: 0.398500 ms CreateObjectMapping: 0.120000 ms MarkObjects: 2.563200 ms  DeleteObjects: 0.110400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/_Scenes/Level1.unity
+  artifactKey: Guid(d4ecd4e99c19e3e4084a8ebab0a8c098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Scenes/Level1.unity using Guid(d4ecd4e99c19e3e4084a8ebab0a8c098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e149cc7f7976dc3e80ee0026ea828030') in 0.029156 seconds
+  Import took 0.031799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Assets/_Scenes
+  artifactKey: Guid(5b62479afc3b2c54986fd4ecedad6c8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Scenes using Guid(5b62479afc3b2c54986fd4ecedad6c8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23eadbed1598aa2c503fc0f7bba9daf4') in 0.015373 seconds
+  Import took 0.019276 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.475534 seconds.
+  path: Assets/_Scenes/Level1 1.unity
+  artifactKey: Guid(4629571bdaf788c4eba8b303a5d1c2eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Scenes/Level1 1.unity using Guid(4629571bdaf788c4eba8b303a5d1c2eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e98cabdfe4eb8505d70732d5a092e6d') in 0.012819 seconds
+  Import took 0.017236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004461 seconds.
+  path: Assets/_Scenes/Level1 1.unity
+  artifactKey: Guid(4629571bdaf788c4eba8b303a5d1c2eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Scenes/Level1 1.unity using Guid(4629571bdaf788c4eba8b303a5d1c2eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e98cabdfe4eb8505d70732d5a092e6d') in 0.003091 seconds
+  Import took 0.005748 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
